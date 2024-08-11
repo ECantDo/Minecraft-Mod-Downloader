@@ -1,0 +1,26 @@
+{
+  "version": 4,
+  "mod_ids": [
+    "EsAfCjCV"
+  ],
+  "mods": [
+    {
+      "slug": "appleskin",
+      "title": "AppleSkin",
+      "type": "mod",
+      "versions": [
+        {
+          "id": "4u9jzxoo",
+          "game_versions": [
+            "1.21"
+          ],
+          "loaders": [
+            "neoforge"
+          ],
+          "filename": "appleskin-neoforge-mc1.21-3.0.3.jar",
+          "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/4u9jzxoo/appleskin-neoforge-mc1.21-3.0.3.jar"
+        }
+      ]
+    }
+  ]
+}

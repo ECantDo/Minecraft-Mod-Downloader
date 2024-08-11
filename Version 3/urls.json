@@ -1,0 +1,104 @@
+[
+  {
+    "download_url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/M8d2bZuk/3dskinlayers-fabric-1.5.4-mc1.20.1.jar",
+    "project_id": "zV5r3pPn",
+    "name": "3D Skin Layers",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar",
+    "project_id": "EsAfCjCV",
+    "name": "AppleSkin",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Sbew3kXe/architectury-9.1.12-fabric.jar",
+    "project_id": "lhGA9TYQ",
+    "name": "Architectury API",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/VX3TgwQh/versions/gPJoJ3mr/carpet-extra-1.20-1.4.115.jar",
+    "project_id": "VX3TgwQh",
+    "name": "Carpet Extra",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/1IjD5062/versions/Z9FJWLMt/continuity-3.0.0-beta.4%2B1.20.1.jar",
+    "project_id": "1IjD5062",
+    "name": "Continuity",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/IpANjyfH/essential_1-2-3_fabric_1-20-1.jar",
+    "project_id": "k2ZPuTBm",
+    "name": "ESSENTIAL Mod",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/YblXfKtI/fabric-api-0.91.0%2B1.20.1.jar",
+    "project_id": "P7dR8mSH",
+    "name": "Fabric API",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/K0Wj117C/fabric-carpet-1.20-1.4.112%2Bv230608.jar",
+    "project_id": "TQTTVgYE",
+    "name": "Carpet",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/Lue6O9z9/indium-1.0.27%2Bmc1.20.1.jar",
+    "project_id": "Orvt0mRa",
+    "name": "Indium",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/YL57xq9U/versions/ogjxrwGQ/iris-mc1.20.1-1.6.11.jar",
+    "project_id": "YL57xq9U",
+    "name": "Iris Shaders",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ZSNsJrPI/lithium-fabric-mc1.20.1-0.11.2.jar",
+    "project_id": "gvQqBUqZ",
+    "name": "Lithium",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar",
+    "project_id": "mOgUt4GM",
+    "name": "Mod Menu",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/m0Dd8Cjy/MouseTweaks-fabric-mc1.20-2.25.jar",
+    "project_id": "aC3cM3Vq",
+    "name": "Mouse Tweaks",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/Nv2fQJo5/versions/akFkhrL8/replaymod-1.20.1-2.6.13.jar",
+    "project_id": "Nv2fQJo5",
+    "name": "ReplayMod",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar",
+    "project_id": "AANobbMI",
+    "name": "Sodium",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/1bokaNcj/versions/KSDcShTK/Xaeros_Minimap_23.9.3_Fabric_1.20.jar",
+    "project_id": "1bokaNcj",
+    "name": "Xaero's Minimap",
+    "type": "mods"
+  },
+  {
+    "download_url": "https://cdn.modrinth.com/data/NcUtCpym/versions/EKlLbMF8/XaerosWorldMap_1.37.2_Fabric_1.20.jar",
+    "project_id": "NcUtCpym",
+    "name": "Xaero's World Map",
+    "type": "mods"
+  }
+]
