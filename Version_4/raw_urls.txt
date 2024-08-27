@@ -20,10 +20,13 @@ https://modrinth.com/mod/isometric-renders
 https://modrinth.com/mod/lazydfu
 https://modrinth.com/mod/mouse-tweaks
 https://modrinth.com/mod/nvidium
-https://modrinth.com/mod/replaymod
 https://modrinth.com/mod/xaeros-minimap
 https://modrinth.com/mod/xaeros-world-map
 https://modrinth.com/mod/malilib
 https://modrinth.com/mod/architectury-api
 https://modrinth.com/mod/owo-lib
 https://modrinth.com/mod/no-chat-reports
+https://modrinth.com/mod/better-stats
+https://modrinth.com/mod/reeses-sodium-options
+https://modrinth.com/mod/flashback/versions
+https://modrinth.com/mod/better-ping-display-fabric
