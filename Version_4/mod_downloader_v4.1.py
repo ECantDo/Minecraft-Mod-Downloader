@@ -85,7 +85,7 @@ def download(mod_data: dict, version: str = "1.19.4", loader: str = "fabric"):
         break
 
     if not mod_found:
-        print(f"{colors['red']}Mod Not Found{colors['reset']}")
+        print(f"{colors['red']}Mod, '{mod_data['title']}', Not Found{colors['reset']}")
         return
 
     # CHECK IF THAT VERSION IS ALREADY DOWNLOADED
