@@ -30,3 +30,4 @@ https://modrinth.com/mod/better-stats
 https://modrinth.com/mod/reeses-sodium-options
 https://modrinth.com/mod/flashback/versions
 https://modrinth.com/mod/better-ping-display-fabric
+https://modrinth.com/mod/tcdcommons
