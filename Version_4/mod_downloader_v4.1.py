@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+import traceback
 
 import requests
 
@@ -95,13 +96,14 @@ def download(mod_data: dict, version: str = "1.19.4", loader: str = "fabric"):
     for mod in mod_data["versions"]:
         if mod["filename"][0] in mods_file_contents:
             print(f"{colors['red']}REMOVING previous version of mod {colors['reset']} {mod_version['filename'][0]} "
-                  f"({mod['filename'][0]})")
-            os.remove(download_path + mod["type"] + "s\\" + mod["filename"][0])
-            print(f"{colors['green']}REMOVED mod{colors['reset']}")
+                  f"{colors['green']}({mod['filename'][0]})")
+            # print(download_path + mod["type"] + "s\\" + mod["filename"][0])
+            os.remove(download_path + mod_data["type"] + "s\\" + mod["filename"][0])
+            print(f"REMOVED mod{colors['reset']}")
             break
     # DOWNLOAD THE MOD
-    file_name = mod_data["filename"][0]
-    url = mod_data["url"][0]
+    file_name = mod_version["filename"][0]
+    url = mod_version["url"][0]
     file_download_path = download_path + mod_data["type"] + "s\\" + file_name
     try:
         print(f"{colors['blue']}getting response for {colors['reset']}{url}")
@@ -210,8 +212,8 @@ def main():
 if __name__ == "__main__":
     try:
         main()
-    except Exception as e:
-        print(e)
+    except Exception:
         print(f"{colors['red']}An Error has occurred.{colors['reset']}")
+        print(traceback.format_exc())
         input("Press Enter to Continue")
     pass
