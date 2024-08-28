@@ -37,7 +37,9 @@
     "Bh37bMuy",
     "4das1Fjq",
     "MS1ZMyR7",
-    "Eldc1g37"
+    "Eldc1g37",
+    "YBz7DOs8",
+    "N6n5dqoA"
   ],
   "mods": [
     {
@@ -89378,6 +89380,1496 @@
           ],
           "url": [
             "https://cdn.modrinth.com/data/Eldc1g37/versions/q0tTf22O/tcdcommons-3.12.3%2Bfabric-1.21.jar"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "fabricskyboxes",
+      "title": "FabricSkyboxes",
+      "type": "mod",
+      "versions": [
+        {
+          "id": "VDzuPSIb",
+          "game_versions": [
+            "1.16.3",
+            "1.16.4",
+            "1.16.5"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-1.16-1.16.3-0.5.0.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.0/fabricskyboxes-1.16-1.16.3-0.5.0.jar"
+          ]
+        },
+        {
+          "id": "H220I4zP",
+          "game_versions": [
+            "1.17"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-1.17-0.5.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.1/fabricskyboxes-1.17-0.5.1.jar"
+          ]
+        },
+        {
+          "id": "QZ458aNV",
+          "game_versions": [
+            "1.17"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-1.17-0.5.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.2/fabricskyboxes-1.17-0.5.2.jar"
+          ]
+        },
+        {
+          "id": "aY5ERIZf",
+          "game_versions": [
+            "1.17.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-1.17.1-0.5.3.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.3/fabricskyboxes-1.17.1-0.5.3.jar"
+          ]
+        },
+        {
+          "id": "TXjtXxm7",
+          "game_versions": [
+            "1.18",
+            "1.18.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-1.18-0.5.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.4/fabricskyboxes-1.18-0.5.4.jar"
+          ]
+        },
+        {
+          "id": "m8fbq5qt",
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-1.18.2-0.5.5.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.5/fabricskyboxes-1.18.2-0.5.5.jar"
+          ]
+        },
+        {
+          "id": "ASOYKWyq",
+          "game_versions": [
+            "1.19"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-1.19-0.5.6.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.6/fabricskyboxes-1.19-0.5.6.jar"
+          ]
+        },
+        {
+          "id": "jlQdmg97",
+          "game_versions": [
+            "1.19"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ],
+          "filename": [
+            "fabricskyboxes-1.19-0.5.7.jar",
+            "fabricskyboxes-1.19-0.5.7-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.7/fabricskyboxes-1.19-0.5.7.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.7/fabricskyboxes-1.19-0.5.7-sources.jar"
+          ]
+        },
+        {
+          "id": "Bz2WAyHU",
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-1.19.2-0.5.8.jar",
+            "fabricskyboxes-1.19.2-0.5.8-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.8/fabricskyboxes-1.19.2-0.5.8.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.8/fabricskyboxes-1.19.2-0.5.8-sources.jar"
+          ]
+        },
+        {
+          "id": "n7SMIwY3",
+          "game_versions": [
+            "1.16.5"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.5.9+mc1.16.5.jar",
+            "fabricskyboxes-0.5.9+mc1.16.5-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/n7SMIwY3/fabricskyboxes-0.5.9%2Bmc1.16.5.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/n7SMIwY3/fabricskyboxes-0.5.9%2Bmc1.16.5-sources.jar"
+          ]
+        },
+        {
+          "id": "MIbhyO98",
+          "game_versions": [
+            "1.17.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.5.9+mc1.17.1.jar",
+            "fabricskyboxes-0.5.9+mc1.17.1-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/MIbhyO98/fabricskyboxes-0.5.9%2Bmc1.17.1.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/MIbhyO98/fabricskyboxes-0.5.9%2Bmc1.17.1-sources.jar"
+          ]
+        },
+        {
+          "id": "XMHUTWrw",
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.5.9+mc1.18.2.jar",
+            "fabricskyboxes-0.5.9+mc1.18.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/XMHUTWrw/fabricskyboxes-0.5.9%2Bmc1.18.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/XMHUTWrw/fabricskyboxes-0.5.9%2Bmc1.18.2-sources.jar"
+          ]
+        },
+        {
+          "id": "dNI2er7V",
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.5.9+mc1.19.2.jar",
+            "fabricskyboxes-0.5.9+mc1.19.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/dNI2er7V/fabricskyboxes-0.5.9%2Bmc1.19.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/dNI2er7V/fabricskyboxes-0.5.9%2Bmc1.19.2-sources.jar"
+          ]
+        },
+        {
+          "id": "xLXFM2un",
+          "game_versions": [
+            "1.16.5"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.0+mc1.16.5.jar",
+            "fabricskyboxes-0.6.0+mc1.16.5-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/xLXFM2un/fabricskyboxes-0.6.0%2Bmc1.16.5.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/xLXFM2un/fabricskyboxes-0.6.0%2Bmc1.16.5-sources.jar"
+          ]
+        },
+        {
+          "id": "3tMxVPcD",
+          "game_versions": [
+            "1.17.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.0+mc1.17.1.jar",
+            "fabricskyboxes-0.6.0+mc1.17.1-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/3tMxVPcD/fabricskyboxes-0.6.0%2Bmc1.17.1.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/3tMxVPcD/fabricskyboxes-0.6.0%2Bmc1.17.1-sources.jar"
+          ]
+        },
+        {
+          "id": "GWiS2REj",
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.0+mc1.18.2.jar",
+            "fabricskyboxes-0.6.0+mc1.18.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/GWiS2REj/fabricskyboxes-0.6.0%2Bmc1.18.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/GWiS2REj/fabricskyboxes-0.6.0%2Bmc1.18.2-sources.jar"
+          ]
+        },
+        {
+          "id": "t2tvlfIW",
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.0+mc1.19.2.jar",
+            "fabricskyboxes-0.6.0+mc1.19.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/t2tvlfIW/fabricskyboxes-0.6.0%2Bmc1.19.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/t2tvlfIW/fabricskyboxes-0.6.0%2Bmc1.19.2-sources.jar"
+          ]
+        },
+        {
+          "id": "OOnBaFfi",
+          "game_versions": [
+            "1.16.5"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.1+mc1.16.5.jar",
+            "fabricskyboxes-0.6.1+mc1.16.5-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/OOnBaFfi/fabricskyboxes-0.6.1%2Bmc1.16.5.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/OOnBaFfi/fabricskyboxes-0.6.1%2Bmc1.16.5-sources.jar"
+          ]
+        },
+        {
+          "id": "TSuIo3P9",
+          "game_versions": [
+            "1.17.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.1+mc1.17.1.jar",
+            "fabricskyboxes-0.6.1+mc1.17.1-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/TSuIo3P9/fabricskyboxes-0.6.1%2Bmc1.17.1.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/TSuIo3P9/fabricskyboxes-0.6.1%2Bmc1.17.1-sources.jar"
+          ]
+        },
+        {
+          "id": "8yv3YWSh",
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.1+mc1.18.2.jar",
+            "fabricskyboxes-0.6.1+mc1.18.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/8yv3YWSh/fabricskyboxes-0.6.1%2Bmc1.18.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/8yv3YWSh/fabricskyboxes-0.6.1%2Bmc1.18.2-sources.jar"
+          ]
+        },
+        {
+          "id": "ehRYuRPI",
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.1+mc1.19.2.jar",
+            "fabricskyboxes-0.6.1+mc1.19.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/ehRYuRPI/fabricskyboxes-0.6.1%2Bmc1.19.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/ehRYuRPI/fabricskyboxes-0.6.1%2Bmc1.19.2-sources.jar"
+          ]
+        },
+        {
+          "id": "dSmn5zFj",
+          "game_versions": [
+            "1.19.3"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.1+mc1.19.3.jar",
+            "fabricskyboxes-0.6.1+mc1.19.3-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/dSmn5zFj/fabricskyboxes-0.6.1%2Bmc1.19.3.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/dSmn5zFj/fabricskyboxes-0.6.1%2Bmc1.19.3-sources.jar"
+          ]
+        },
+        {
+          "id": "8oS4iD3a",
+          "game_versions": [
+            "1.16.5"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.2+mc1.16.5.jar",
+            "fabricskyboxes-0.6.2+mc1.16.5-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/8oS4iD3a/fabricskyboxes-0.6.2%2Bmc1.16.5.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/8oS4iD3a/fabricskyboxes-0.6.2%2Bmc1.16.5-sources.jar"
+          ]
+        },
+        {
+          "id": "GCc8Ic5S",
+          "game_versions": [
+            "1.17.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.2+mc1.17.1.jar",
+            "fabricskyboxes-0.6.2+mc1.17.1-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/GCc8Ic5S/fabricskyboxes-0.6.2%2Bmc1.17.1.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/GCc8Ic5S/fabricskyboxes-0.6.2%2Bmc1.17.1-sources.jar"
+          ]
+        },
+        {
+          "id": "uM5rI0LM",
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.2+mc1.18.2.jar",
+            "fabricskyboxes-0.6.2+mc1.18.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/uM5rI0LM/fabricskyboxes-0.6.2%2Bmc1.18.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/uM5rI0LM/fabricskyboxes-0.6.2%2Bmc1.18.2-sources.jar"
+          ]
+        },
+        {
+          "id": "JF3TQ8aT",
+          "game_versions": [
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.2+mc1.19.2.jar",
+            "fabricskyboxes-0.6.2+mc1.19.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/JF3TQ8aT/fabricskyboxes-0.6.2%2Bmc1.19.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/JF3TQ8aT/fabricskyboxes-0.6.2%2Bmc1.19.2-sources.jar"
+          ]
+        },
+        {
+          "id": "Rg1IX2YB",
+          "game_versions": [
+            "1.19.3"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.2+mc1.19.3.jar",
+            "fabricskyboxes-0.6.2+mc1.19.3-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/Rg1IX2YB/fabricskyboxes-0.6.2%2Bmc1.19.3.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/Rg1IX2YB/fabricskyboxes-0.6.2%2Bmc1.19.3-sources.jar"
+          ]
+        },
+        {
+          "id": "iJt9nKLO",
+          "game_versions": [
+            "1.19.3"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.3+mc1.19.3.jar",
+            "fabricskyboxes-0.6.3+mc1.19.3-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/iJt9nKLO/fabricskyboxes-0.6.3%2Bmc1.19.3.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/iJt9nKLO/fabricskyboxes-0.6.3%2Bmc1.19.3-sources.jar"
+          ]
+        },
+        {
+          "id": "l6X3fwKo",
+          "game_versions": [
+            "1.19.3"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.4+mc1.19.3.jar",
+            "fabricskyboxes-0.6.4+mc1.19.3-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/l6X3fwKo/fabricskyboxes-0.6.4%2Bmc1.19.3.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/l6X3fwKo/fabricskyboxes-0.6.4%2Bmc1.19.3-sources.jar"
+          ]
+        },
+        {
+          "id": "D2kr1TZN",
+          "game_versions": [
+            "1.19.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.4+mc1.19.4.jar",
+            "fabricskyboxes-0.6.4+mc1.19.4-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/D2kr1TZN/fabricskyboxes-0.6.4%2Bmc1.19.4.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/D2kr1TZN/fabricskyboxes-0.6.4%2Bmc1.19.4-sources.jar"
+          ]
+        },
+        {
+          "id": "EZF3YEvO",
+          "game_versions": [
+            "1.19.3"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.5+mc1.19.3.jar",
+            "fabricskyboxes-0.6.5+mc1.19.3-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/EZF3YEvO/fabricskyboxes-0.6.5%2Bmc1.19.3.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/EZF3YEvO/fabricskyboxes-0.6.5%2Bmc1.19.3-sources.jar"
+          ]
+        },
+        {
+          "id": "836K5lNR",
+          "game_versions": [
+            "1.19.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.6.5+mc1.19.4.jar",
+            "fabricskyboxes-0.6.5+mc1.19.4-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/836K5lNR/fabricskyboxes-0.6.5%2Bmc1.19.4.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/836K5lNR/fabricskyboxes-0.6.5%2Bmc1.19.4-sources.jar"
+          ]
+        },
+        {
+          "id": "hahpALIM",
+          "game_versions": [
+            "1.19.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.0+mc1.19.4.jar",
+            "fabricskyboxes-0.7.0+mc1.19.4-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/hahpALIM/fabricskyboxes-0.7.0%2Bmc1.19.4.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/hahpALIM/fabricskyboxes-0.7.0%2Bmc1.19.4-sources.jar"
+          ]
+        },
+        {
+          "id": "lPPSW7iI",
+          "game_versions": [
+            "1.19.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.1+mc1.19.4.jar",
+            "fabricskyboxes-0.7.1+mc1.19.4-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/lPPSW7iI/fabricskyboxes-0.7.1%2Bmc1.19.4.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/lPPSW7iI/fabricskyboxes-0.7.1%2Bmc1.19.4-sources.jar"
+          ]
+        },
+        {
+          "id": "bl8ZIucH",
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.1+mc1.20.jar",
+            "fabricskyboxes-0.7.1+mc1.20-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/bl8ZIucH/fabricskyboxes-0.7.1%2Bmc1.20.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/bl8ZIucH/fabricskyboxes-0.7.1%2Bmc1.20-sources.jar"
+          ]
+        },
+        {
+          "id": "Ka2D2R3Q",
+          "game_versions": [
+            "1.16.5"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.2+mc1.16.5.jar",
+            "fabricskyboxes-0.7.2+mc1.16.5-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/Ka2D2R3Q/fabricskyboxes-0.7.2%2Bmc1.16.5.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/Ka2D2R3Q/fabricskyboxes-0.7.2%2Bmc1.16.5-sources.jar"
+          ]
+        },
+        {
+          "id": "sP82Z0Yi",
+          "game_versions": [
+            "1.17.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.2+mc1.17.1.jar",
+            "fabricskyboxes-0.7.2+mc1.17.1-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/sP82Z0Yi/fabricskyboxes-0.7.2%2Bmc1.17.1.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/sP82Z0Yi/fabricskyboxes-0.7.2%2Bmc1.17.1-sources.jar"
+          ]
+        },
+        {
+          "id": "qZfQOkIm",
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.2+mc1.18.2.jar",
+            "fabricskyboxes-0.7.2+mc1.18.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/qZfQOkIm/fabricskyboxes-0.7.2%2Bmc1.18.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/qZfQOkIm/fabricskyboxes-0.7.2%2Bmc1.18.2-sources.jar"
+          ]
+        },
+        {
+          "id": "YMQsxFJ0",
+          "game_versions": [
+            "1.19",
+            "1.19.1",
+            "1.19.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.2+mc1.19.2.jar",
+            "fabricskyboxes-0.7.2+mc1.19.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/YMQsxFJ0/fabricskyboxes-0.7.2%2Bmc1.19.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/YMQsxFJ0/fabricskyboxes-0.7.2%2Bmc1.19.2-sources.jar"
+          ]
+        },
+        {
+          "id": "31hyXcYO",
+          "game_versions": [
+            "1.19.3"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.2+mc1.19.3.jar",
+            "fabricskyboxes-0.7.2+mc1.19.3-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/31hyXcYO/fabricskyboxes-0.7.2%2Bmc1.19.3.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/31hyXcYO/fabricskyboxes-0.7.2%2Bmc1.19.3-sources.jar"
+          ]
+        },
+        {
+          "id": "ijAgRx4J",
+          "game_versions": [
+            "1.19.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.2+mc1.19.4.jar",
+            "fabricskyboxes-0.7.2+mc1.19.4-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/ijAgRx4J/fabricskyboxes-0.7.2%2Bmc1.19.4.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/ijAgRx4J/fabricskyboxes-0.7.2%2Bmc1.19.4-sources.jar"
+          ]
+        },
+        {
+          "id": "eBCRqCMK",
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.2+mc1.20.1.jar",
+            "fabricskyboxes-0.7.2+mc1.20.1-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/eBCRqCMK/fabricskyboxes-0.7.2%2Bmc1.20.1.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/eBCRqCMK/fabricskyboxes-0.7.2%2Bmc1.20.1-sources.jar"
+          ]
+        },
+        {
+          "id": "cezLH6eB",
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.3+mc1.20.1.jar",
+            "fabricskyboxes-0.7.3+mc1.20.1-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/cezLH6eB/fabricskyboxes-0.7.3%2Bmc1.20.1.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/cezLH6eB/fabricskyboxes-0.7.3%2Bmc1.20.1-sources.jar"
+          ]
+        },
+        {
+          "id": "XGzaAlX8",
+          "game_versions": [
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.3+mc1.20.2.jar",
+            "fabricskyboxes-0.7.3+mc1.20.2-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/XGzaAlX8/fabricskyboxes-0.7.3%2Bmc1.20.2.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/XGzaAlX8/fabricskyboxes-0.7.3%2Bmc1.20.2-sources.jar"
+          ]
+        },
+        {
+          "id": "hRn2Zn7Q",
+          "game_versions": [
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.4+mc1.20.5.jar",
+            "fabricskyboxes-0.7.4+mc1.20.5-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/hRn2Zn7Q/fabricskyboxes-0.7.4%2Bmc1.20.5.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/hRn2Zn7Q/fabricskyboxes-0.7.4%2Bmc1.20.5-sources.jar"
+          ]
+        },
+        {
+          "id": "yhQrKNAJ",
+          "game_versions": [
+            "1.21",
+            "1.21.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ],
+          "filename": [
+            "fabricskyboxes-0.7.4+mc1.21.jar",
+            "fabricskyboxes-0.7.4+mc1.21-sources.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/yhQrKNAJ/fabricskyboxes-0.7.4%2Bmc1.21.jar",
+            "https://cdn.modrinth.com/data/YBz7DOs8/versions/yhQrKNAJ/fabricskyboxes-0.7.4%2Bmc1.21-sources.jar"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "axiom",
+      "title": "Axiom",
+      "type": "mod",
+      "versions": [
+        {
+          "id": "MmM7vlcE",
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-1.2.4-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/MmM7vlcE/Axiom-1.2.4-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "urm6fIfj",
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-1.3.0-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/urm6fIfj/Axiom-1.3.0-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "Ky4AtMTv",
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-1.3.2-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/Ky4AtMTv/Axiom-1.3.2-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "7wc4Pk29",
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-1.4.0-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/7wc4Pk29/Axiom-1.4.0-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "adSSax3d",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-1.4.1-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/adSSax3d/Axiom-1.4.1-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "AMDwf8zs",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-1.5.0-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/AMDwf8zs/Axiom-1.5.0-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "jAGJoszd",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-1.5.1-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/jAGJoszd/Axiom-1.5.1-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "IMAETzr8",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-1.5.1-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/IMAETzr8/Axiom-1.5.1-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "PHQTt8T9",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.0.0-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/PHQTt8T9/Axiom-2.0.0-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "1uBNErGJ",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.1-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/1uBNErGJ/Axiom-2.1-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "XezVlNgX",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.1.1-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/XezVlNgX/Axiom-2.1.1-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "ACv2vsdT",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.2.1-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/ACv2vsdT/Axiom-2.2.1-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "mDyIR8uL",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.2.1-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/mDyIR8uL/Axiom-2.2.1-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "NzYRD4Y9",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.3.0-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/NzYRD4Y9/Axiom-2.3.0-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "N6gqKPhv",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.3.0-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/N6gqKPhv/Axiom-2.3.0-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "C9raUOD6",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.3.0-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/C9raUOD6/Axiom-2.3.0-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "JHkjf3Fe",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.3.1-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/JHkjf3Fe/Axiom-2.3.1-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "VQgZdjLa",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.3.1-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/VQgZdjLa/Axiom-2.3.1-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "Ltd8ZQ1T",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.3.1-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/Ltd8ZQ1T/Axiom-2.3.1-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "xxOxKTE4",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.4.2-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/xxOxKTE4/Axiom-2.4.2-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "QzvetMRk",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.4.2-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/QzvetMRk/Axiom-2.4.2-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "EEgSHSxj",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.4.2-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/EEgSHSxj/Axiom-2.4.2-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "zbfjgSFu",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.5.0-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/zbfjgSFu/Axiom-2.5.0-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "i5FK63uT",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.5.0-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/i5FK63uT/Axiom-2.5.0-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "iOKTCwk8",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.5.0-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/iOKTCwk8/Axiom-2.5.0-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "DA6n6owm",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.6.0-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/DA6n6owm/Axiom-2.6.0-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "O8IVH1mN",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.6.0-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/O8IVH1mN/Axiom-2.6.0-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "dHxHtCQF",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.6.0-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/dHxHtCQF/Axiom-2.6.0-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "U3qYoEkI",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.6.1-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/U3qYoEkI/Axiom-2.6.1-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "LHORZ9jq",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.6.1-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/LHORZ9jq/Axiom-2.6.1-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "HwpT3Iuk",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.6.1-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/HwpT3Iuk/Axiom-2.6.1-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "mtS53yIh",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.7.0-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/mtS53yIh/Axiom-2.7.0-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "EHj9GjgU",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.7.0-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/EHj9GjgU/Axiom-2.7.0-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "R8ZupM8Z",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.7.0-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/R8ZupM8Z/Axiom-2.7.0-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "JJt0NDC2",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.8.1-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/JJt0NDC2/Axiom-2.8.1-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "mQ4Cy8Zr",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.8.1-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/mQ4Cy8Zr/Axiom-2.8.1-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "nvx3oDkz",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.8.1-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/nvx3oDkz/Axiom-2.8.1-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "JMpH3gnj",
+          "game_versions": [
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-2.8.1-for-MC1.20.6.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/JMpH3gnj/Axiom-2.8.1-for-MC1.20.6.jar"
+          ]
+        },
+        {
+          "id": "Mq7PFqq2",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-3.0.0-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/Mq7PFqq2/Axiom-3.0.0-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "44K4HMS0",
+          "game_versions": [
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-3.0.0-for-MC1.20.2.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/44K4HMS0/Axiom-3.0.0-for-MC1.20.2.jar"
+          ]
+        },
+        {
+          "id": "YxeYxQyz",
+          "game_versions": [
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-3.0.0-for-MC1.20.4.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/YxeYxQyz/Axiom-3.0.0-for-MC1.20.4.jar"
+          ]
+        },
+        {
+          "id": "sJP1pto6",
+          "game_versions": [
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-3.0.0-for-MC1.20.6.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/sJP1pto6/Axiom-3.0.0-for-MC1.20.6.jar"
+          ]
+        },
+        {
+          "id": "ZJKNixEj",
+          "game_versions": [
+            "1.21"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-3.1.0-for-MC1.21.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/ZJKNixEj/Axiom-3.1.0-for-MC1.21.jar"
+          ]
+        },
+        {
+          "id": "f9pguExv",
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-3.2.1-for-MC1.20.1.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/f9pguExv/Axiom-3.2.1-for-MC1.20.1.jar"
+          ]
+        },
+        {
+          "id": "D3uDJmiB",
+          "game_versions": [
+            "1.21"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-3.2.1-for-MC1.21.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/D3uDJmiB/Axiom-3.2.1-for-MC1.21.jar"
+          ]
+        },
+        {
+          "id": "AhuJ1BUW",
+          "game_versions": [
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ],
+          "filename": [
+            "Axiom-3.1.0-for-MC1.20.6.jar"
+          ],
+          "url": [
+            "https://cdn.modrinth.com/data/N6n5dqoA/versions/AhuJ1BUW/Axiom-3.1.0-for-MC1.20.6.jar"
           ]
         }
       ]

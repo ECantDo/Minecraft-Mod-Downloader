@@ -31,3 +31,5 @@ https://modrinth.com/mod/reeses-sodium-options
 https://modrinth.com/mod/flashback/versions
 https://modrinth.com/mod/better-ping-display-fabric
 https://modrinth.com/mod/tcdcommons
+https://modrinth.com/mod/fabricskyboxes
+https://modrinth.com/mod/axiom
