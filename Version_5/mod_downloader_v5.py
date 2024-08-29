@@ -5,6 +5,8 @@ import traceback
 
 import requests
 
+default_version = "1.21"
+
 curseforge_mods = [
     "https://www.curseforge.com/minecraft/mc-mods/item-scroller",
     "https://www.curseforge.com/minecraft/mc-mods/tweakeroo",
@@ -54,12 +56,41 @@ def last_index_of(string: str, substring: str) -> int:
 
 
 def get_urls_content(file_path: str) -> dict | None:
+    # Get Local Files
+    file_contents: dict | None = None
     try:
         with open(file_path, 'r') as file:
-            return json.loads(file.read())
+            file_contents = json.loads(file.read())
     except FileNotFoundError:
         print(f"{colors['red']}FILE CONTAINING URL'S Not Found{colors['reset']}")
-        return None
+        print(f"{colors['yellow']}Attempting to Download Urls From GitHub{colors['reset']}")
+        # os.makedirs(file_path)
+    else:
+        print(
+            f"{colors['green']}FILE CONTAINING URL'S Found{colors['yellow']} Ensuring Urls Are Up To Date{colors['reset']}")
+    # print(f"{file_contents = } {type(file_contents)}")
+    # GET URLS FROM GITHUB
+    try:
+        req = requests.get(
+            "https://raw.githubusercontent.com/ECantDo/Minecraft-Mod-Downloader/master/Version_5/urls.json", timeout=5)
+        # print(req.text)
+        if req.status_code == 200:
+            github_file_contents: dict = json.loads(req.text)
+            # print(github_file_contents)
+            if type(file_contents) == dict:
+                file_contents.update(github_file_contents)
+            else:
+                file_contents = github_file_contents
+            print(f"{colors['green']}Github Urls Downloaded, Updating Local Files{colors['reset']}")
+            with open(file_path, 'w') as outfile:
+                json.dump(file_contents, outfile)
+            print(f"{colors['green']}Local Files Updated{colors['reset']}")
+            return file_contents
+    except requests.exceptions.RequestException as e:
+        print(f"{colors['red']}Failed To Download Urls{colors['reset']}")
+        raise e
+    # Merge Files
+
     pass
 
 
@@ -120,64 +151,25 @@ def download(mod_data: dict, version: str = "1.19.4", loader: str = "fabric"):
     pass
 
 
-def download_deprecated(mod_json: dict, version: str = "1.19.4", loader: str = "fabric"):
-    mod_found = False
-    for mod in mod_json["versions"][::-1]:
-        if loader not in mod["loaders"]:
-            continue
-        if version not in mod["game_versions"]:
-            continue
-        mod_found = True
-
-        print(f"{colors['green']}Downloading '{mod_json['title']}' for {loader} version {version}{colors['reset']}")
-
-        file_name = mod["filename"][0]
-        url = mod["url"][0]
-        file_download_path = download_path + mod_json["type"] + "s\\" + file_name
-
-        ####
-        if os.path.exists(file_download_path):
-            print(f"{colors['yellow']}Skipping, file already exists: {colors['reset']} {file_name}")
-            break
-
-        try:
-            print(f"{colors['blue']}getting response for {colors['reset']}{url}")
-            response = requests.get(url=url, timeout=5)
-            response.raise_for_status()
-
-            if response.status_code == 200:
-                print(f"{colors['green']}downloading: '{mod_json['title']}'")
-                with open(file_download_path, 'wb') as file:
-                    file.write(response.content)
-        except requests.exceptions.RequestException as e:
-            print(f"{colors['red']}failed to get a response\n{e}")
-        print(colors["reset"], end="")
-        break
-
-    if not mod_found:
-        print(f"{colors['red']}Mod {mod_json['title']} Not Found for {loader} for version {version}{colors['reset']}")
-        return
-
-    pass
-
-
 def main():
     print(f"{colors["yellow"]}", end="")
-    url_file_path = "urls.json"
+    url_file_path = f"urls.json"
     create_globals()
     create_directories()
     file_contents = get_urls_content(url_file_path)
+    # print(f"{file_contents is not None = }")
+    # exit()
     working_path = os.path.abspath(os.path.curdir)
 
     global mods_file_contents
     mods_file_contents = os.listdir(download_path + "mods")
-    print(f"{mods_file_contents = }")
+    # print(f"{mods_file_contents = }")
 
     print(f"{colors['reset']}", end="")
-    version = input("Version of Minecraft to download for (default: 1.19.4): ").strip()
+    version = input(f"Version of Minecraft to download for (default: {default_version}): ").strip()
     mod_loader = input("Loader to download (default: fabric): ").strip()
     if version == "":
-        version = "1.19.4"
+        version = default_version
     if mod_loader == "":
         mod_loader = "fabric"
 
