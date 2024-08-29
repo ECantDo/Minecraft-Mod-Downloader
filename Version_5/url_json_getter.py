@@ -123,7 +123,7 @@ time_per_request = 1 / (ratelimit / 60)  # in seconds
 
 def save_json_file():
     with open(url_file_path, 'w') as outfile:
-        json.dump(contents, outfile, indent=2)
+        json.dump(contents, outfile)
 
 
 def exit_handler():
