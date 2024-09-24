@@ -58,6 +58,7 @@ def build_version_json(version_id: str) -> dict or None:
     #         mod_ids.append(mod["project_id"])
     return {
         "id": version_id,
+        "version_type": req_json["version_type"],
         "game_versions": req_json["game_versions"],
         "loaders": req_json["loaders"],
         "filename": [fl["filename"] for fl in req_json["files"]],
@@ -97,6 +98,8 @@ def add_mod(mod_id: str, json_contents: dict):
 
     request_count += len(new_ids)
     print(f"Mod: {request_contents['title']}")
+
+    # Getting each version???
     for idx, id in enumerate(new_ids):
         print(
             f"\rAdding {idx + 1} of {len(new_ids)} new versions ({len(request_contents["versions"])} total)\t"
@@ -140,7 +143,12 @@ def exit_handler():
 
 atexit.register(exit_handler)
 url_file_path = "urls.json"
-contents = get_json_file_contents(url_file_path)
+contents: dict = {
+    "version": 4,
+    "mod_ids": [],
+    "mods": []
+}
+contents.update(get_json_file_contents(url_file_path))
 
 if __name__ == "__main__":
     mod_ids = [get_id_from_modrinth_url(url) for url in open("raw_urls.txt", 'r').readlines()]

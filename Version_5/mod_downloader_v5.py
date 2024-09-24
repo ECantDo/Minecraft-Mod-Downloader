@@ -102,18 +102,25 @@ def create_directories():
             print(f"{colors['green']}Made Directory '{download_type[:-1]}'{colors['reset']}")
 
 
-def download(mod_data: dict, version: str = "1.19.4", loader: str = "fabric"):
+def download(mod_data: dict, version: str = "1.21", loader: str = "fabric"):
     # FIND MOD VERSION
     mod_found = False
     mod_version = None
+    download_beta: bool = "b" in version
     for mod in mod_data["versions"][::-1]:  # Reverse the list so the latest version is first
         if loader not in mod["loaders"]:
             continue
         if version not in mod["game_versions"]:
             continue
-        mod_found = True
-        mod_version = mod
-        break
+        if mod["version_type"] == "beta" and download_beta:
+            mod_found = True
+            mod_version = mod
+            break
+        elif mod["version_type"] == "release" and not download_beta:
+            mod_found = True
+            mod_version = mod
+            break
+        pass
 
     if not mod_found:
         print(f"{colors['red']}Mod, '{mod_data['title']}', Not Found{colors['reset']}")
