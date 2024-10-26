@@ -34,3 +34,4 @@ https://modrinth.com/mod/tcdcommons
 https://modrinth.com/mod/fabricskyboxes
 https://modrinth.com/mod/axiom
 https://modrinth.com/mod/litematica
+https://modrinth.com/mod/bobby
